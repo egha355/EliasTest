@@ -1,3 +1,4 @@
 import numpy
-for i in range(0,5):
-  print i
+for n in range(0,5):
+  print n
+time = time +2
