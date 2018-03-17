@@ -1,4 +1,5 @@
 # this code is important
 import numpy
-if i<2:
-  print i
+if m<2:
+  print m
+for m=2:
